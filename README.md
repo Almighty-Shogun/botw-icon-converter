@@ -6,7 +6,7 @@
 A simple script in C# that converts the icons from The Legend of Zelda - Breath of the Wild to PNG files.
 
 # Note
-This is an old project that I wrote a long time ago. I have converted the code from using .NET 5 to .NET 6 and published the code here on GitHub. I have no use for the code anymore and it might be usefull so someone in the future. This is one of my first C# application that I wrote. If the code doesn't work or you need help with it feel free to contact me.
+This is an old project that I wrote a long time ago. I have converted the code from using .NET 5 to .NET 6 and published the code here on GitHub. I have no use for the code anymore and it might be useful so someone in the future. This is one of my first C# application that I wrote. If the code doesn't work or you need help with it feel free to contact me.
 
 # Information
 This is an C# console application that simply uses other tools to make this conversion go faster then doing them all manually. All original tool creator(s) have been given proper credits in the credits section.
